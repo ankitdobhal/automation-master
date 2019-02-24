@@ -17,6 +17,13 @@ hta
 so on .....
 
 #Their are several tools:
-1>network automatr
-2>Win_Info
-3>Serach_engine automator
+
+
+
+#1>network automatr
+
+
+#2>Win_Info
+
+
+#3>Serach_engine automator
