@@ -20,10 +20,10 @@ so on .....
 
 
 
-#1>network automatr
+#1>network automator
 
 
 #2>Win_Info
 
 
-#3>Serach_engine automator
+#3>Search_engine automator
