@@ -9,21 +9,25 @@ combination of some automated tools
   @@@@      @@@@  @@@@  @@@@@@@@@@@@    @@@@  @@@@    @@@@  @@@@  @@@@@@@@@@  @@@@@@@@@@@@    @@@@  @@@@  @@@@    @@@@    @@@@  
 @@@@        @@@@  @@@@@@@@@@    @@@@    @@@@@@@@    @@@@  @@@@  @@@@    @@@@@@@@@@    @@@@  @@@@    @@@@@@@@    @@@@    @@@@    
 
-
-#This repository is a combination of some automated tool with several scripting languages
+# Vision
+This repository is a combination of some automated tool with several scripting languages
 bastch script
 pwsh script
 hta
 so on .....
 
-#Their are several tools:
+# Features
+
+In this automation-master tool you will find some amzing tools 
+like:
+
+(1) network automator
 
 
-
-#1>network automator
-
-
-#2>Win_Info
+(2) Win_Info
 
 
-#3>Search_engine automator
+(3) Search_engine automator
+
+# Hta-Encryptor tool
+It is basically based on the basic of html application and vbscript to encrypt & decrypt the messages
