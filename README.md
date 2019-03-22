@@ -11,7 +11,7 @@ combination of some automated tools
 
 # Vision
 This repository is a combination of some automated tool with several scripting languages
-bastch script
+batch script
 pwsh script
 hta
 so on .....
